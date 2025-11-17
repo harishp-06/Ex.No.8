@@ -112,19 +112,19 @@ Minor differences in tree density and sky hue.
 Overall, 90% similarity with the reference image.
 
 #### Image 2 – City Street at Night
-```
+
 Basic Prompt:
 
+```
 “A busy city street at night.”
 ```
-```
-Refined Prompt:
 
+Refined Prompt:
+```
 “A busy city street at night with glowing neon signs, cars, and people walking under the rain.”
 ```
-```
 Final Refined Prompt:
-
+```
 “A vibrant city street at night with colorful neon lights reflecting on wet pavement, people holding umbrellas, glowing shop boards, and moody cinematic lighting — cyberpunk style.”
 ```
 Observation:

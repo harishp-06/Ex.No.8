@@ -1,7 +1,6 @@
-## Exp 8: Reproducing an Image Using Prompts for Image Generation
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/eea48916-0c0c-464a-a1dd-b5265d5bdf62" /><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f5df3974-2daf-4cb4-9311-ef92c5ec68c5" />## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Reg. No. 212223060086
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -23,19 +22,19 @@ MidJourney – Creative image generation tool producing artistic results.
 
 Examine and note:
 
-Objects/Subjects: e.g., mountains, people, or vehicles.
+-> Objects/Subjects: e.g., mountains, people, or vehicles.
 
-Colors: dominant hues, contrast levels.
+-> Colors: dominant hues, contrast levels.
 
-Textures: rough, glossy, smooth, or natural.
+-> Textures: rough, glossy, smooth, or natural.
 
-Lighting: bright daylight, sunset, or artificial lighting.
+-> Lighting: bright daylight, sunset, or artificial lighting.
 
-Background: indoor/outdoor, detailed/simple.
+-> Background: indoor/outdoor, detailed/simple.
 
-Composition: main focus, framing, depth.
+-> Composition: main focus, framing, depth.
 
-Style: realism, cartoon, painting, etc.
+-> Style: realism, cartoon, painting, etc.
 
 ### Step 2: Create the Basic Prompt
 
@@ -73,36 +72,38 @@ Input the prompt into an image-generation model (e.g., DALL·E or Stable Diffusi
 
 Compare both images based on:
 
-Accuracy of objects and background
+-> Accuracy of objects and background
 
-Matching colors and lighting
+-> Matching colors and lighting
 
-Style similarity
+-> Style similarity
 
-Level of detail
+-> Level of detail
 
-Refine the prompt and regenerate if necessary.
+-> Refine the prompt and regenerate if necessary.
 
-Images Selected for Reproduction:
+-> Images Selected for Reproduction:
 
 Image 1: Sunset over a Mountain Lake
 Image 2: A City Street at Night with Neon Lights
 
 ### Example Prompts and Outputs
 #### Image 1 – Mountain Sunset
-
+```
 Basic Prompt:
 
 “A lake surrounded by mountains during sunset.”
-
+```
+```
 Refined Prompt:
 
 “A calm mountain lake at sunset with purple and orange sky reflections, pine trees along the shore, and soft golden lighting — realistic photography style.”
-
+```
+```
 Final Refined Prompt:
 
 “A peaceful mountain lake at sunset, surrounded by pine forests and distant snow-capped peaks, reflecting warm orange and pink skies, ultra-realistic style.”
-
+```
 Observation:
 
 The final image captured the mountain reflections and lighting accurately.
@@ -112,19 +113,21 @@ Minor differences in tree density and sky hue.
 Overall, 90% similarity with the reference image.
 
 #### Image 2 – City Street at Night
-
+```
 Basic Prompt:
 
 “A busy city street at night.”
-
+```
+```
 Refined Prompt:
 
 “A busy city street at night with glowing neon signs, cars, and people walking under the rain.”
-
+```
+```
 Final Refined Prompt:
 
 “A vibrant city street at night with colorful neon lights reflecting on wet pavement, people holding umbrellas, glowing shop boards, and moody cinematic lighting — cyberpunk style.”
-
+```
 Observation:
 
 The AI accurately reproduced neon reflections and wet street texture.
@@ -148,6 +151,14 @@ Prompts Used:
 | **Composition**      | Similar layout   | Nearly identical             |
 | **Texture Accuracy** | Slight variation | Excellent reflection details |
 | **Style Accuracy**   | Realistic        | Artistic (Cyberpunk)         |
+
+### Output:
+
+![Uploading ChatGPT Image Nov 17, 2025, 08_22_13 AM.png…]()
+
+
+![Uploading ChatGPT Image Nov 17, 2025, 08_22_43 AM.png…]()
+
 
 ### Conclusion:
 

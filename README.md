@@ -89,18 +89,18 @@ Image 2: A City Street at Night with Neon Lights
 
 ### Example Prompts and Outputs
 #### Image 1 “Three Masked Figures Painting Under a Tree – Forest Art Scene”
-```
-Basic Prompt:
 
+Basic Prompt:
+```
 “A lake surrounded by mountains during sunset.”```
 ```
 Refined Prompt:
-
+```
 ““A calm mountain lake at sunset with purple and orange sky reflections, pine trees along the shore, and soft golden lighting — realistic photography style.”
 ```
-```
-Final Refined Prompt:
 
+Final Refined Prompt:
+```
 “A peaceful mountain lake at sunset, surrounded by pine forests and distant snow-capped peaks, reflecting warm orange and pink skies, ultra-realistic style.”
 ```
 Observation:

@@ -88,17 +88,15 @@ Image 1: Sunset over a Mountain Lake
 Image 2: A City Street at Night with Neon Lights
 
 ### Example Prompts and Outputs
-#### Image 1 – Mountain Sunset
+#### Image 1 “Three Masked Figures Painting Under a Tree – Forest Art Scene”
 ```
 Basic Prompt:
 
-“A lake surrounded by mountains during sunset.”
-```
+“A scene of three characters sitting under a tree and painting in a forest.”```
 ```
 Refined Prompt:
 
-“A calm mountain lake at sunset with purple and orange sky reflections, pine trees along the shore, and soft golden lighting — realistic photography style.”
-```
+“Three mysterious figures with glowing red eyes sit under a large tree in a bright green forest. One has a straw hat and a furry black body, one wears a blue hooded robe, and one wears a mechanical suit with a straw hat. They are painting on small wooden boards beside a canvas stand. The scene is colorful, peaceful, and illustrated in a semi-realistic art style.”```
 ```
 Final Refined Prompt:
 
@@ -154,7 +152,8 @@ Prompts Used:
 
 ### Output:
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/eea48916-0c0c-464a-a1dd-b5265d5bdf62" /><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f5df3974-2daf-4cb4-9311-ef92c5ec68c5" />
+![Uploading ChatGPT Image Nov 17, 2025, 08_34_34 AM.png…]()
+
 
 
 ### Conclusion:

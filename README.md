@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/eea48916-0c0c-464a-a1dd-b5265d5bdf62" /><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f5df3974-2daf-4cb4-9311-ef92c5ec68c5" />## Exp 8: Reproducing an Image Using Prompts for Image Generation
+## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
 # Reg. No. 212223060086
 
@@ -154,10 +154,7 @@ Prompts Used:
 
 ### Output:
 
-![Uploading ChatGPT Image Nov 17, 2025, 08_22_13 AM.png…]()
-
-
-![Uploading ChatGPT Image Nov 17, 2025, 08_22_43 AM.png…]()
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/eea48916-0c0c-464a-a1dd-b5265d5bdf62" /><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f5df3974-2daf-4cb4-9311-ef92c5ec68c5" />
 
 
 ### Conclusion:

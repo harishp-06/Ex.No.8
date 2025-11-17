@@ -92,11 +92,12 @@ Image 2: A City Street at Night with Neon Lights
 ```
 Basic Prompt:
 
-“A scene of three characters sitting under a tree and painting in a forest.”```
+“A lake surrounded by mountains during sunset.”```
 ```
 Refined Prompt:
 
-“Three mysterious figures with glowing red eyes sit under a large tree in a bright green forest. One has a straw hat and a furry black body, one wears a blue hooded robe, and one wears a mechanical suit with a straw hat. They are painting on small wooden boards beside a canvas stand. The scene is colorful, peaceful, and illustrated in a semi-realistic art style.”```
+““A calm mountain lake at sunset with purple and orange sky reflections, pine trees along the shore, and soft golden lighting — realistic photography style.”
+```
 ```
 Final Refined Prompt:
 
@@ -152,8 +153,9 @@ Prompts Used:
 
 ### Output:
 
-![Uploading ChatGPT Image Nov 17, 2025, 08_34_34 AM.png…]()
+<img width="1536" height="1024" alt="ChatGPT Image Nov 17, 2025, 08_22_13 AM" src="https://github.com/user-attachments/assets/b6c07429-882d-474c-b2ef-9347023765ae" />
 
+<img width="1536" height="1024" alt="ChatGPT Image Nov 17, 2025, 08_22_43 AM" src="https://github.com/user-attachments/assets/592aaa7a-1a33-4e9c-be44-ed0e90ceaa3a" />
 
 
 ### Conclusion:
